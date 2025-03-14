@@ -58,10 +58,10 @@ a{
     color: blue;
 }
 
-body.index .nav-link[href="Page1.html"] {
+body.index .nav-link[href="index.html"] {
     font-size: 22px;
 }
 
-body.index2 .nav-link[href="Page2.html"] {
+body.index2 .nav-link[href="index.html"] {
     font-size: 22px;
 }
