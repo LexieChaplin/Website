@@ -1,4 +1,4 @@
-body.Page1 h1 {
+body.index h1 {
     font-size: 28px;
     font-family: Arial, sans-serif;
     background-color: sandybrown;
@@ -7,7 +7,7 @@ body.Page1 h1 {
     padding: 0;
 }
 
-body.Page2 h1 {
+body.index2 h1 {
     font-size: 20px;
     font-family: Arial, sans-serif;
     background-color: sandybrown;
@@ -58,10 +58,10 @@ a{
     color: blue;
 }
 
-body.Page1 .nav-link[href="Page1.html"] {
+body.index .nav-link[href="Page1.html"] {
     font-size: 22px;
 }
 
-body.Page2 .nav-link[href="Page2.html"] {
+body.index2 .nav-link[href="Page2.html"] {
     font-size: 22px;
 }
