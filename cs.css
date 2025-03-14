@@ -1,0 +1,65 @@
+body.Page1 h1 {
+    font-size: 28px;
+    font-family: Arial, sans-serif;
+    background-color: sandybrown;
+    color: maroon;
+    margin: 0;
+    padding: 0;
+}
+body.Page2 h1 {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    background-color: sandybrown;
+    color: maroon;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: sandybrown;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin:  15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: #a67c00;
+}
+
+footer {
+    background-color: sandybrown;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+a{
+    color: blue;
+}
+
+body.Page1 .nav-link[href="Page1.html"] {
+    font-size: 22px;
+}
+
+body.Page2 .nav-link[href="Page2.html"] {
+    font-size: 22px;
+}
